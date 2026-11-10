@@ -1,5 +1,6 @@
 GET
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f2c0e424-0d76-4e22-ad68-d5d725bf6e1e" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3cf44d4e-af82-4b88-95c3-eb0e1165536a" />
+
 
 GETBYID
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8c83b943-c065-4740-a91a-957c234d847c" />
